@@ -34,15 +34,13 @@ class CL_Controllers_Menu extends CL_Classes_FrontController {
         CL_Classes_Tools::checkErrorSettings(true);
 
         /* add the plugin menu in admin */
-        if (current_user_can('administrator')) {
-            $this->model->addSubmenu(array('options-general.php',
-                __('ContentLook Settings', _CL_PLUGIN_NAME_),
-                __('ContentLook', _CL_PLUGIN_NAME_) . CL_Classes_Tools::showNotices(CL_Classes_Tools::$errors_count, 'errors_count'),
-                'edit_posts',
-                'cl_settings',
-                array($this, 'showMenu')
-            ));
-        }
+        $this->model->addMenu(array(__('ContentLook', _CL_PLUGIN_NAME_),
+            __('ContentLook', _CL_PLUGIN_NAME_) . CL_Classes_Tools::showNotices(CL_Classes_Tools::$errors_count, 'errors_count'),
+            'edit_posts',
+            'cl_settings',
+            array($this, 'showMenu'),
+            _CL_THEME_URL_ . 'img/menu_icon_16.png'
+        ));
     }
 
     public function showMenu() {

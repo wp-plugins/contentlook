@@ -1,6 +1,6 @@
 === Contentlook - the Content Marketing Audit ===
 Contributors: florinmuresan,cifi
-Tags: content,marketing,content marketing,site audit,audit,post,posts,page,pages,social,blogging,traffic,authority,links,seo
+Tags: content,marketing,content marketing,site audit,audit,post,posts,page,pages,social,blogging,traffic,authority,links,seo,twitter,google,plugin,optimization,seo plugin
 Requires at least: 3.1
 Tested up to: 3.7.1
 Stable tag: trunk
@@ -14,7 +14,7 @@ ContentLook helps you take a look at your whole Content Marketing strategy, incl
 
 [youtube http://www.youtube.com/watch?v=l3QSCNhHzqM]
 
-ContentLook helps you take a look at your whole Content Marketing strategy, including your 6 main areas: Blogging, Traffic, Social Media, SEO, Links and Authority.
+ContentLook helps you take a look at your whole Content Marketing strategy, including your 6 main areas: <strong>Blogging</strong>, <strong>Traffic</strong>, <strong>Social Media</strong>, <strong>SEO</strong>, <strong>Links</strong> and <strong>Authority</strong>.
 
 With a simple look, you can see which areas need your immediate attention and you can start fixing them. If you want, you can send the report to one of your team mates and get him to fix that issue. You can even send them to your team, by departments (the content writers, developers, seo people, marketers, managers, etc.).
 
