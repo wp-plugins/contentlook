@@ -46,15 +46,16 @@ If your developers need “solid” documentation about some of the issues, you�
 6. After the upload is finished, click Activate Plugin.
 
 == Screenshots ==
-1. ContentLook Audit Score
-2. ContentLook Audit Channels
-3. ContentLook Audit Tasks
-4. ContentLook Audit Overview
-5. ContentLook Audit Send Email
+1. Site Audit Score
+2. Site Audit Channels
+3. Site Audit Tasks
+4. Site Audit Overview
+5. Site Audit Send Email
 
 
 == Changelog ==
 = 1.0.1 =
 * WordPress 3.7.1 compatibility
+* Weekly Audit by email
 
 == Frequently Asked Questions ==
