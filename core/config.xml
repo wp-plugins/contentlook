@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+    <block>
+        <name></name>
+        <active>0</active>
+    </block>
+    <block>
+        <name>CL_Controllers_Menu</name>
+        <actions>
+            <action>cl_settings_update</action>
+            <action>cl_settings_connected</action>
+            <action>cl_preview_mobile</action>
+            <action>cl_preview_web</action>
+        </actions>
+        <active>1</active>
+    </block>
+</blocks>
