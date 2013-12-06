@@ -36,7 +36,7 @@ If your developers need “solid” documentation about some of the issues, you�
 * easy to follow guidelines and explanations, but also heavy documentation for those who require it
 
 **It's Free!!** and always will be.
-
+ 
 <a href="/extend/plugins/contentlook/screenshots/" >Check our screenshots</a>
  | <a href="http://www.contentlook.co" title="Site Audit" target="_blank">Go to our official site</a>
 
