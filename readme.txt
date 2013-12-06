@@ -37,6 +37,10 @@ If your developers need “solid” documentation about some of the issues, you�
 
 **It's Free!!** and always will be.
 
+<a href="/extend/plugins/contentlook/screenshots/" >Check our screenshots</a>
+ | <a href="http://www.contentlook.co" title="Site Audit" target="_blank">Go to our official site</a>
+
+
 == Installation ==
 1. Log In as an Admin on your Wordpress blog.
 2. In the menu displayed on the left, there is a "Plugins" tab. Click it.
