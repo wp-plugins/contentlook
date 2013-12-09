@@ -1,6 +1,6 @@
 === Contentlook - the Content Marketing Audit ===
 Contributors: florinmuresan,cifi
-Tags: content,marketing,content marketing,site audit,audit,post,posts,page,pages,social,blogging,traffic,authority,links,seo,twitter,google,plugin,optimization,seo plugin
+Tags: seo plugin,content,marketing,content marketing,site audit,audit,post,posts,page,pages,social,blogging,traffic,authority,links,seo,twitter,google,plugin,optimization,seo plugin
 Requires at least: 3.1
 Tested up to: 3.7.1
 Stable tag: trunk
@@ -36,7 +36,7 @@ If your developers need “solid” documentation about some of the issues, you�
 * easy to follow guidelines and explanations, but also heavy documentation for those who require it
 
 **It's Free!!** and always will be.
- 
+
 <a href="/extend/plugins/contentlook/screenshots/" >Check our screenshots</a>
  | <a href="http://www.contentlook.co" title="Site Audit" target="_blank">Go to our official site</a>
 
