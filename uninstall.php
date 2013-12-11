@@ -10,5 +10,5 @@ if (!defined('ABSPATH') && !defined('WP_UNINSTALL_PLUGIN'))
 require(dirname(__FILE__) . '/config/config.php');
 
 /* Delete the record from database */
-//delete_option(CL_OPTION);
+delete_option(CL_OPTION);
 
