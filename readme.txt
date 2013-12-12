@@ -58,6 +58,9 @@ If your developers need “solid” documentation about some of the issues, you�
 
 
 == Changelog ==
+= 1.0.8 =
+* Audit date displayed
+
 = 1.0.1 =
 * WordPress 3.7.1 compatibility
 * Weekly Audit by email
