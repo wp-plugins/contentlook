@@ -2,7 +2,7 @@
 Contributors: florinmuresan,cifi
 Tags: seo plugin,content,marketing,content marketing,site audit,audit,post,posts,page,pages,social,blogging,traffic,authority,links,seo,twitter,google,plugin,optimization,seo plugin
 Requires at least: 3.1
-Tested up to: 3.7.1
+Tested up to: 3.8
 Stable tag: trunk
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=EBVRXTDRTJH2W&lc=US&item_name=StarBox%20Plugin&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 
@@ -58,6 +58,9 @@ If your developers need “solid” documentation about some of the issues, you�
 
 
 == Changelog ==
+= 1.0.8 =
+* Compatible with Wordpress 3.8
+
 = 1.0.8 =
 * Audit date displayed
 
