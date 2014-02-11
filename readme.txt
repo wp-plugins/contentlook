@@ -1,4 +1,4 @@
-=== Contentlook - the Content Marketing Audit ===
+=== SEO Audit by ContentLook ===
 Contributors: florinmuresan,cifi
 Tags: seo plugin,content,marketing,content marketing,site audit,audit,post,posts,page,pages,social,blogging,traffic,authority,links,seo,twitter,google,plugin,optimization,seo plugin,content marketing strategy
 Requires at least: 3.1
@@ -20,7 +20,7 @@ With a simple look, you can see which areas need your immediate attention and yo
 
 You’ll get Actionable steps to solve each issue, and also some PRO Tips to help you out.
 
-If your developers need “solid” documentation about some of the issues, you’ll have that for them as well with ContentLook. You can always get easy tips and easy to follow instructions, but you can also get some pretty heavy details, if your team requires this from you.
+If your developers need “solid” documentation about some of the issues, you’ll have that for them as well with SEO Audit by ContentLook. You can always get easy tips and easy to follow instructions, but you can also get some pretty heavy details, if your team requires this from you.
 
 <h3>What Will You Get?</h3>
 
@@ -65,7 +65,7 @@ If your developers need “solid” documentation about some of the issues, you�
 * Compatible with Wordpress 3.8
 
 = 1.0.8 =
-* Audit date displayed
+* SEO Audit date displayed
 
 = 1.0.1 =
 * WordPress 3.7.1 compatibility
