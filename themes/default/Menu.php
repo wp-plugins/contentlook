@@ -12,7 +12,7 @@
                             <label for="cl_sendemail_off" class="cl_switch-label cl_switch-label-on"><?php _e('No', _CL_PLUGIN_NAME_); ?></label>
                             <span class="cl_switch-selection"></span>
                         </div>
-                        <span><?php _e('Get the audit by email once a week', _CL_PLUGIN_NAME_); ?></span>
+                        <span><?php _e('Create the audit once a week', _CL_PLUGIN_NAME_); ?></span>
 
                     </div>
 
