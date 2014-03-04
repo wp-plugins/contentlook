@@ -1,4 +1,4 @@
-=== SEO Audit by ContentLook ===
+=== SEO Audit Tool by ContentLook ===
 Contributors: florinmuresan,cifi
 Tags: seo plugin,content,marketing,content marketing,site audit,audit,post,posts,page,pages,social,blogging,traffic,authority,links,seo,twitter,google,plugin,optimization,seo plugin,content marketing strategy
 Requires at least: 3.1
@@ -6,7 +6,7 @@ Tested up to: 3.8.1
 Stable tag: trunk
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=EBVRXTDRTJH2W&lc=US&item_name=StarBox%20Plugin&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 
-SEO Audit by ContentLook helps you take a look at your whole Content Marketing strategy, including your 6 main areas.
+SEO Audit by ContentLook gives you a thorough report of your whole Content Marketing activity: SEO, blogging, authority, social, etc.
 
 == Description ==
 
@@ -18,13 +18,13 @@ ContentLook's SEO Audit Software helps you take a look at your whole Content Mar
 
 With a simple look, you can see which areas need your immediate attention and you can start fixing them. If you want, you can send the report to one of your team mates and get her/him to fix that issue. You can even send them to your team, by departments (the content writers, developers, seo people, marketers, managers, etc.).
 
-You’ll get Actionable steps to solve each issue, and also some PRO Tips to help you out.
+Youâ??ll get Actionable steps to solve each issue, and also some PRO Tips to help you out.
 
-If your SEO mates or developers need “solid” documentation about some of the issues, you’ll have that for them as well with SEO Audit by ContentLook. You can always get easy tips and easy to follow instructions, but you can also get some pretty heavy details, if your team requires this from you.
+If your SEO mates or developers need â??solidâ? documentation about some of the issues, youâ??ll have that for them as well with the <strong>SEO Audit Tool</strong> by ContentLook. You can always get easy tips and easy to follow instructions, but you can also get some pretty heavy details, if your team requires this from you.
 
-<h3>What Will You Get from the SEO Audit?</h3>
+<h3>What Will You Get from this SEO Audit Tool?</h3>
 
-* an Audit Score for your Content Strategy and it’s Execution
+* an Audit Score for your Content Strategy and itâ??s Execution
 * insights about the 6 main areas of your content strategy (Blogging, Traffic, SEO, Social Media, Links and Authority)
 * to-do lists with Actionable tasks to help improve your content strategy
 * PRO Tips from us included in this Site Audit
@@ -37,7 +37,11 @@ If your SEO mates or developers need “solid” documentation about some of the
 
 **It's Free!!** and always will be.
 
-The SEO Audit checklist is up-to-date.
+<h3>The SEO Audit checklist is up-to-date.</h3>
+
+That's why you can also use it as a <strong>content audit plugin</strong>, because it takes a look at all your content and it can give you a content marketing audit, plus you can see how well your content currently performs on social channels, authority, etc.
+
+This SEO Audit tool does a lot for both content marketing and SEO.
 
 <a href="/extend/plugins/contentlook/screenshots/" >Check our screenshots</a>
  | <a href="http://www.contentlook.co" title="Site Audit" target="_blank">Go to our official site</a>
