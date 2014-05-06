@@ -2,9 +2,9 @@
 Contributors: florinmuresan,cifi
 Tags: seo plugin,content,marketing,content marketing,site audit,audit,post,posts,page,pages,social,blogging,traffic,authority,links,seo,twitter,google,plugin,optimization,seo plugin,content marketing strategy
 Requires at least: 3.1
-Tested up to: 3.8.1
+Tested up to: 3.9
 Stable tag: trunk
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=EBVRXTDRTJH2W&lc=US&item_name=StarBox%20Plugin&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
+Donate link: http://www.contentlook.co
 
 SEO Audit by ContentLook gives you a thorough report of your whole Content Marketing activity: SEO, blogging, authority, social, etc.
 
@@ -64,6 +64,9 @@ This SEO Audit tool does a lot for both content marketing and SEO.
 
 
 == Changelog ==
+= 1.1.0 =
+* Compatible with Wordpress 3.9
+
 = 1.0.9 =
 * Compatible with Wordpress 3.8.1
 

@@ -8,11 +8,11 @@
   Plugin URI:
   Author: Squirrly UK
   Description: ContentLook helps you take a look at your whole Content Marketing strategy, including your 6 main areas: Blogging, Traffic, Social Media, SEO, Links and Authority.
-  Version: 1.0.9
+  Version: 1.1.0
   Author URI: http://www.squirrly.co
  */
 /* SET THE CURRENT VERSION ABOVE AND BELOW */
-define('CL_VERSION', '1.0.9');
+define('CL_VERSION', '1.1.0');
 /* Call config files */
 require(dirname(__FILE__) . '/config/config.php');
 
