@@ -49,8 +49,9 @@ class CL_Classes_DisplayController {
 
 
         if ($css_uri <> '') {
-            if (wp_style_is(_CL_PLUGIN_NAME_ . $name))
-                wp_deregister_style(_CL_PLUGIN_NAME_ . $name);
+            if (function_exists('wp_style_is'))
+                if (wp_style_is(_CL_PLUGIN_NAME_ . $name))
+                    wp_deregister_style(_CL_PLUGIN_NAME_ . $name);
 //            //echo _CL_PLUGIN_NAME_ . $name . ', ' . $css_uri . ', ' . CL_VERSION . '<br />';
 
             wp_register_style(_CL_PLUGIN_NAME_ . $name, $css_uri, null, CL_VERSION, 'all');
@@ -62,8 +63,9 @@ class CL_Classes_DisplayController {
             wp_register_script('jquery', "http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js", false, 'latest', false);
             wp_enqueue_script('jquery');
 
-            if (wp_script_is(_CL_PLUGIN_NAME_ . $name))
-                wp_deregister_script(_CL_PLUGIN_NAME_ . $name);
+            if (function_exists('wp_script_is'))
+                if (wp_script_is(_CL_PLUGIN_NAME_ . $name))
+                    wp_deregister_script(_CL_PLUGIN_NAME_ . $name);
 
             wp_register_script(_CL_PLUGIN_NAME_ . $name, $js_uri, null, CL_VERSION);
             wp_enqueue_script(_CL_PLUGIN_NAME_ . $name);

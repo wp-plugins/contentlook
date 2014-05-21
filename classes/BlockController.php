@@ -28,11 +28,6 @@ class CL_Classes_BlockController {
 
         /* create the model and view instances */
         $this->model = CL_Classes_ObjController::getModel($this->name);
-
-        if ($class = CL_Classes_ObjController::getClassPath($this->name)) {
-            CL_Classes_ObjController::getController('CL_Classes_DisplayController')
-                    ->loadMedia($class['name']);
-        }
     }
 
     /**
@@ -56,6 +51,7 @@ class CL_Classes_BlockController {
     }
 
     protected function output() {
+        $this->hookHead();
         /* view is called from theme directory with the class name by default */
         if ($class = CL_Classes_ObjController::getClassPath($this->name))
             $this->view->output($class['name'], $this);
@@ -79,7 +75,13 @@ class CL_Classes_BlockController {
      * @return void
      */
     protected function hookHead() {
+        if (!is_admin())
+            return;
 
+        if ($class = CL_Classes_ObjController::getClassPath($this->name)) {
+            CL_Classes_ObjController::getController('CL_Classes_DisplayController')
+                    ->loadMedia($class['name']);
+        }
     }
 
     /** @todo _ GASESTE O CALE SA INCARC CSS PENTRU BLOCURI */

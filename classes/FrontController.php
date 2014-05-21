@@ -36,11 +36,6 @@ class CL_Classes_FrontController {
         /* check if there is a hook defined in the controller clients class */
         CL_Classes_ObjController::getController('CL_Classes_HookController')->setAdminHooks($this);
         CL_Classes_ObjController::getController('CL_Classes_HookController')->getShortcodes($this);
-
-        if ($class = CL_Classes_ObjController::getClassPath($this->name)) {
-            CL_Classes_ObjController::getController('CL_Classes_DisplayController')
-                    ->loadMedia($class['name']);
-        }
     }
 
     /**
@@ -50,9 +45,6 @@ class CL_Classes_FrontController {
      * @return void
      */
     public function init() {
-
-
-
         $this->view = CL_Classes_ObjController::getController('CL_Classes_DisplayController');
 
         if ($this->flush)
@@ -64,6 +56,7 @@ class CL_Classes_FrontController {
     }
 
     protected function output() {
+        $this->hookHead();
         /* view is called from theme directory with the class name by defauls */
         if ($class = CL_Classes_ObjController::getClassPath($this->name))
             $this->view->output($class['name'], $this);
@@ -116,8 +109,13 @@ class CL_Classes_FrontController {
      * @return void
      */
     public function hookHead() {
-        if (!is_admin()) //this hook is for admin panel only
+        if (!is_admin())
             return;
+
+        if ($class = CL_Classes_ObjController::getClassPath($this->name)) {
+            CL_Classes_ObjController::getController('CL_Classes_DisplayController')
+                    ->loadMedia($class['name']);
+        }
     }
 
 }

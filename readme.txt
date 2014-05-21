@@ -64,6 +64,9 @@ This SEO Audit tool does a lot for both content marketing and SEO.
 
 
 == Changelog ==
+= 1.1.1 =
+* Compatible with Wordpress 3.9.1
+
 = 1.1.0 =
 * Compatible with Wordpress 3.9
 
