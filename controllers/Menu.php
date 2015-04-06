@@ -47,7 +47,7 @@ class CL_Controllers_Menu extends CL_Classes_FrontController {
         CL_Classes_Tools::checkErrorSettings();
         /* Force call of error display */
         CL_Classes_ObjController::getController('CL_Classes_Error')->hookNotices();
-
+        CL_Classes_ObjController::getController('CL_Classes_DisplayController')->loadMedia('md5');
         parent::init();
     }
 
@@ -82,6 +82,8 @@ class CL_Controllers_Menu extends CL_Classes_FrontController {
             case 'cl_settings_connected':
                 CL_Classes_Tools::saveOptions('cl_connected', 1);
                 CL_Classes_Tools::saveOptions('cl_token', CL_Classes_Tools::getValue('token'));
+                CL_Classes_Tools::saveOptions('cl_url', CL_Classes_Tools::getValue('url'));
+
                 break;
         }
     }

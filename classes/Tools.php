@@ -79,6 +79,7 @@ class CL_Classes_Tools extends CL_Classes_FrontController {
             'cl_sendemail' => 1,
             'cl_connected' => 0,
             'cl_token' => '',
+            'cl_url' => ''
         );
         $options = json_decode(get_option(CL_OPTION), true);
 
@@ -131,7 +132,7 @@ class CL_Classes_Tools extends CL_Classes_FrontController {
      * @return mixed Value
      */
     public static function getValue($key, $defaultValue = false) {
-        if (!isset($key) OR empty($key) OR !is_string($key))
+        if (!isset($key) OR empty($key) OR ! is_string($key))
             return false;
         $ret = (isset($_POST[$key]) ? $_POST[$key] : (isset($_GET[$key]) ? $_GET[$key] : $defaultValue));
 
@@ -147,7 +148,7 @@ class CL_Classes_Tools extends CL_Classes_FrontController {
      * @return boolean
      */
     public static function getIsset($key) {
-        if (!isset($key) OR empty($key) OR !is_string($key))
+        if (!isset($key) OR empty($key) OR ! is_string($key))
             return false;
         return isset($_POST[$key]) ? true : (isset($_GET[$key]) ? true : false);
     }
@@ -359,8 +360,7 @@ class CL_Classes_Tools extends CL_Classes_FrontController {
         if (function_exists('func_get_args')) {
             $arguments = func_get_args();
             $total_arguments = count($arguments);
-        }
-        else
+        } else
             $arguments = array();
 
 
@@ -375,7 +375,7 @@ class CL_Classes_Tools extends CL_Classes_FrontController {
         $i = 0;
         foreach ($arguments as $argument) {
             if (count($arguments) > 1)
-                $output .= "\n" . '<strong>#' . (++$i ) . ' of ' . $total_arguments . '</strong>: ';
+                $output .= "\n" . '<strong>#' . ( ++$i ) . ' of ' . $total_arguments . '</strong>: ';
 
             // if argument is boolean, false value does not display, so ...
             if (is_bool($argument))
