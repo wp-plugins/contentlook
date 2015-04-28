@@ -2,7 +2,7 @@
 Contributors: florinmuresan,cifi
 Tags: seo plugin,content,marketing,content marketing,site audit,audit,post,posts,page,pages,social,blogging,traffic,authority,links,seo,twitter,google,plugin,optimization,seo plugin,content marketing strategy
 Requires at least: 3.1
-Tested up to: 4.1.1
+Tested up to: 4.2.1
 Stable tag: trunk
 Donate link: http://www.contentlook.co
 
@@ -64,6 +64,9 @@ This SEO Audit tool does a lot for both content marketing and SEO.
 
 
 == Changelog ==
+= 2.0.1 =
+* Compatible with Wordpress 4.2.1
+
 = 2.0 =
 * Compatible with Wordpress 4.1.1
 * Compatible with the new Contentlook.co
