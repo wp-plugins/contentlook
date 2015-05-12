@@ -1,8 +1,8 @@
 ﻿=== SEO Audit Tool by ContentLook ===
-Contributors: florinmuresan,cifi
+Contributors: cifi, calinvingan, florinmuresan
 Tags: seo plugin,content,marketing,content marketing,site audit,audit,post,posts,page,pages,social,blogging,traffic,authority,links,seo,twitter,google,plugin,optimization,seo plugin,content marketing strategy
 Requires at least: 3.1
-Tested up to: 4.2.1
+Tested up to: 4.2.2
 Stable tag: trunk
 Donate link: http://www.contentlook.co
 
