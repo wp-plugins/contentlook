@@ -63,6 +63,7 @@ This SEO Audit tool does a lot for both content marketing and SEO.
 5. SEO Audit Send Email
 
 
+
 == Changelog ==
 = 2.0.1 =
 * Compatible with Wordpress 4.3
