@@ -49,7 +49,7 @@ This SEO Audit tool does a lot for both content marketing and SEO.
 
 == Installation ==
 1. Log In as an Admin on your Wordpress blog.
-2. In the menu displayed on the left, there is a "Plugins" tab. Click it.
+2. In the menu displayed on the left, there is a "Plugins" tab: Click it.
 3. Now click "Add New".
 4. There, you have the buttons: "Search | Upload | Featured | Popular | Newest". Click "Upload".
 5. Upload the contentlook.zip file.
