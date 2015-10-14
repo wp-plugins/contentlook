@@ -22,6 +22,7 @@ You‚??ll get Actionable steps to solve each issue, and also some PRO Tips to hel
 
 If your SEO mates or developers need ‚??solid‚?ù documentation about some of the issues, you‚??ll have that for them as well with the <strong>SEO Audit Tool</strong> by ContentLook. You can always get easy tips and easy to follow instructions, but you can also get some pretty heavy details, if your team requires this from you.
 
+
 <h3>What Will You Get from this SEO Audit Tool?</h3>
 
 * an Audit Score for your Content Strategy and it‚??s Execution
@@ -62,8 +63,6 @@ This SEO Audit tool does a lot for both content marketing and SEO.
 4. SEO Audit Overview
 5. SEO Audit Send Email
 
-
-
 == Changelog ==
 = 2.0.1 =
 * Compatible with Wordpress 4.3
@@ -97,14 +96,14 @@ This SEO Audit tool does a lot for both content marketing and SEO.
 
 Yes. And it always will be.
 
-=How do I start using it?=
+== How do I start using it? ==
 
 You start using it by installing the plugin into your wordpress, as you can see in the Installation Section of this directory listing. Then, all you need to do is specify the email to which to start receiving the Audit by email.
 
-=How will this help me make my Wordpress Site better?=
-
+= How will this help me make my Wordpress Site better? =
 You'll get a full report of your site, with useful Tips and plugin recommendations to help you make your Wordpress site even better.
 
-=Is your SEO Audit tool only for the SEO of my Wordpress?=
+= Is your SEO Audit tool only for the SEO of my Wordpress?=
+
 
 No. We help you see a lot more than SEO. Included are reports for Blogging Activity, Links to your site, Authority on the web, Social Media, Traffic and SEO.
