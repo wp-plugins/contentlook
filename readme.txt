@@ -8,6 +8,7 @@ Donate link: http://www.contentlook.co
 
 SEO Audit by ContentLook gives you a thorough report of your whole Content Marketing activity: SEO, blogging, authority, social, etc.
 
+
 == Description ==
 
 <h3>What is SEO Audit by ContentLook?</h3>
@@ -103,6 +104,5 @@ You start using it by installing the plugin into your wordpress, as you can see 
 You'll get a full report of your site, with useful Tips and plugin recommendations to help you make your Wordpress site even better.
 
 = Is your SEO Audit tool only for the SEO of my Wordpress?=
-
 
 No. We help you see a lot more than SEO. Included are reports for Blogging Activity, Links to your site, Authority on the web, Social Media, Traffic and SEO.
