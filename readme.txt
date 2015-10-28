@@ -98,8 +98,8 @@ Yes. And it always will be.
 
 You start using it by installing the plugin into your wordpress, as you can see in the Installation Section of this directory listing. Then, all you need to do is specify the email to which to start receiving the Audit by email.
 
-= How will this help me make my Wordpress Site better? =
+*= How will this help me make my Wordpress Site better? *=
 You'll get a full report of your site, with useful Tips and plugin recommendations to help you make your Wordpress site even better.
 
-= Is your SEO Audit tool only for the SEO of my Wordpress? =
+*= Is your SEO Audit tool only for the SEO of my Wordpress? *=
 No. We help you see a lot more than SEO. Included are reports for Blogging Activity, Links to your site, Authority on the web, Social Media, Traffic and SEO.
