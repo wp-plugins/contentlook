@@ -35,7 +35,7 @@ If your SEO mates or developers need ‚??solid‚?ù documentation about some of the
 * download as PDF, to help keep track of weekly score improvements
 * easy to follow guidelines and explanations, but also heavy documentation for those who require it
 
-**It's Free!!** and always will be.
+***It's Free!!** and always will be.
 
 <h3>The SEO Audit checklist is up-to-date.</h3>
 
