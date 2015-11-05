@@ -18,13 +18,13 @@ ContentLook's SEO Audit Software helps you take a look at your whole Content Mar
 
 With a simple look, you can see which areas need your immediate attention and you can start fixing them. If you want, you can send the report to one of your team mates and get her/him to fix that issue. You can even send them to your team, by departments (the content writers, developers, seo people, marketers, managers, etc.).
 
-You‚??ll get Actionable steps to solve each issue, and also some PRO Tips to help you out.
+You'll get Actionable steps to solve each issue, and also some PRO Tips to help you out.
 
-If your SEO mates or developers need ‚??solid‚?ù documentation about some of the issues, you‚??ll have that for them as well with the <strong>SEO Audit Tool</strong> by ContentLook. You can always get easy tips and easy to follow instructions, but you can also get some pretty heavy details, if your team requires this from you.
+If your SEO mates or developers need 'solid'ù documentation about some of the issues, you'll have that for them as well with the <strong>SEO Audit Tool</strong> by ContentLook. You can always get easy tips and easy to follow instructions, but you can also get some pretty heavy details, if your team requires this from you.
 
 <h3>What Will You Get from this SEO Audit Tool?</h3>
 
-* an Audit Score for your Content Strategy and it‚??s Execution
+* an Audit Score for your Content Strategy and it's Execution
 * insights about the 6 main areas of your content strategy (Blogging, Traffic, SEO, Social Media, Links and Authority)
 * to-do lists with Actionable tasks to help improve your content strategy
 * PRO Tips from us included in this Site Audit
