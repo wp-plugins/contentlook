@@ -6,7 +6,6 @@ Tested up to: 4.3
 Stable tag: trunk
 Donate link: http://www.contentlook.co
 
-
 SEO Audit by ContentLook gives you a thorough report of your whole Content Marketing activity: SEO, blogging, authority, social, etc.
 
 == Description ==
@@ -47,7 +46,6 @@ This SEO Audit tool does a lot for both content marketing and SEO.
 
 <a href="/extend/plugins/contentlook/screenshots/" >Check our screenshots</a>
  | <a href="http://www.contentlook.co" title="Site Audit" target="_blank">Go to our official site</a>
-
 
 == Installation ==
 1. Log In as an Admin on your Wordpress blog.
