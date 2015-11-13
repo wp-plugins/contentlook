@@ -94,6 +94,7 @@ This SEO Audit tool does a lot for both content marketing and SEO.
 
 Yes. And it always will be.
 
+
 ==  How do I start using it?  ==
 
 You start using it by installing the plugin into your wordpress, as you can see in the Installation Section of this directory listing. Then, all you need to do is specify the email to which to start receiving the Audit by email.
