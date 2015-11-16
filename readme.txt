@@ -43,7 +43,6 @@ That's why you can also use it as a <strong>content audit plugin</strong>, becau
 
 This SEO Audit tool does a lot for both content marketing and SEO.
 
-
 <a href="/extend/plugins/contentlook/screenshots/" >Check our screenshots</a>
  | <a href="http://www.contentlook.co" title="Site Audit" target="_blank">Go to our official site</a>
 
